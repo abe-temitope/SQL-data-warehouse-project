@@ -37,7 +37,6 @@ Leverage the following tools and resources for a seamless experience:
 - **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads):** Lightweight database server for hosting the data warehouse.
 - **[SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16):** GUI for managing the database and running queries.
 - **[Draw.io](https://www.drawio.com/):** Create diagrams for architecture, data flow, and ETL processes.
-- **[Project Notes](https://www.notion.com/):** Organized steps and phases of the project to stay on track.
 
 ---
 
