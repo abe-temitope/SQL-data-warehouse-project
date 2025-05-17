@@ -71,7 +71,7 @@ For full requirements, check [docs/requirements.md](docs/requirements.md).
 
 # About Me
 
-I am Abe Temitope Moses, a data enthusiast with over 5 years of experience in data analytics and insights generation. My journey in data analysis has equipped me with skills in SQL, data modeling, and visualization. 
+I am Abe Temitope Moses, a data enthusiast with over 2 years of experience in data analytics and insights generation. My journey in data analysis has equipped me with skills in SQL, data modeling, and visualization. 
 
 In this project, I have designed and implemented a **SQL Data Warehouse** to streamline the process of storing, querying, and analyzing large datasets. This warehouse demonstrates my proficiency in creating efficient, scalable solutions for handling data across diverse domains. Through the integration of data extraction, transformation, and loading (ETL) pipelines, I ensured data integrity and accessibility for insightful decision-making.
 
